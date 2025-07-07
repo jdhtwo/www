@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="content-language" content="en-us">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow">
+  <meta name="description" content="Dan Harding">
+  <title>Job Hunt</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <meta property="og:title" content="Dan Harding">
+  <meta property="og:url" content="https://danharding.link/">
+</head>
+
+<body>
+    <div class="container">
+      <h1>Dan Harding -> Job Hunt</h1>
+      <p style="color:red;">As of June 2025 I'm on a job hunt. You can see my experience, resume, LinkedIn, etc on the <a href="index.html">homepage</a>.</p>
+      <p>I'm looking for something along the lines of:</p>
+      
+        <li>Software Engineer</li>
+        <li>Data/Database Engineer, DBA</li>
+        <li>DevOps Engineer</li>
+        <li>Solutions/Integration/Implementation Engineer</li>
+        <li>Quality Assurance/QA/Testing, Test Automation, Software Engineer in Test</li>
+        <li>Technical Writer</li>
+        <li>Release Manager</li>
+        <li>I, 1, Junior, Jr., Associate, Assoc. level</li>
+      
+      
+      <p>Interests:</p>
+        
+            <li>Python</li>
+            <li>SQL</li>
+            <li>Git, GitHub, GitHub Actions, GitLab, Azure DevOps, version control, version control systems/VCS</li>
+            <li>Release Management, CI/CD</li>
+            <li>I love Excel more than you do.</li>
+            <li>Data</li>
+            <li>RESTful APIs, ETL CFGs</li>
+            <li>Personal finance</li>
+            <li>Health insurance</li>
+            <li>CLI!</li>
+            <li>Clear and efficient communication such as customer/public- or internal-facing wikis or documentation.</li>
+            <li>Interested but not yet experienced:</li>
+            <ul>
+                <li>Artificial Intelligence, AI</li>
+                <li>Robotics, Embedded Software</li>
+                <li>Contanierization, Docker, Kubernetes, etc.</li>
+            <ul>
+        
+    </div>
+</body>
+</html>
+
+

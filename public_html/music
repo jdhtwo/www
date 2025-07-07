@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta http-equiv="content-language" content="en-us">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="robots" content="index, follow">
+      <meta name="description" content="Music">
+      <title>Music</title>
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <meta property="og:title" content="Dan Harding">
+      <!--<meta property="og:image" content="https://ye.gg/images/yegg3.png">
+      <meta property="og:url" content="https://danharding.link/">-->
+    </head>
+    
+    <body>
+        <div class="container">
+          
+              <h1>Dan Harding -> Music</h1>
+              
+              <p>I've been a drummer since 6th grade, age 11. Started with a practice pad. Then got a snare drum. I played in middle school concert band. <a href="https://baldguybrew.com/pages/who-is-don-cox">Don</a> got me my first kit in 7th grade. My parents somehow tolerated it. 8-12th grades I did marching band (cymbals, bass drum, snare, quads), concert band. 12th grade I did jazz band, chorus band, and the musical. I got a lot of church drumming experience. I definitely don't know how they tolerated it. I played in bands with friends. As an adult I played for <a href="https://en.wikipedia.org/wiki/Dance_Alloy">Dance Alloy</a> and <a href="https://www.attacktheatre.com/">Attack Theatre</a> classes. I taught lessons for other organizations and at my studio. <span class="years">1992...</span></p>
+              
+              <p>I used to be in a band: <a href="https://open.spotify.com/album/5UeBDyEFFopggLtgSyW9Co?si=ubYE4lM4R3CUy_Xsgsu7Ug">Like Summer</a>. That's all I could find on the internet. We had some other EPs, played some shows, tried to do the thing. <span class="years">2002-2005</span></p>
+              
+              <p>I used to be in a band: <a href="https://goodnightstates.com">Good</a> <a href="https://www.youtube.com/@goodnightstates">Night</a>, <a href="https://youtube.com/playlist?list=PLDPun5Z7FTJmiQjFcSsoRLwUOofEqYBX8&si=NL3mfAR1-N1JxFZO">States</a>. We were trying to do the thing, you know? Make records, play shows, tour in the ubiquitous white 15-passengar Ford Econoline van (you could see the road through the floor. And our alternator that fell out on the highway is still likely out there in Central Pennsylvania). <span class="years">2005-2013</span></p>
+              
+              <p>I was the touring drummer for <a href="https://www.brookeannibale.com/">Brooke Annibale</a>. As a solo artist, she plays hundreds of shows. A handful of times a year she'd have a <a href="https://youtube.com/playlist?list=PLDPun5Z7FTJnNYLbOVSPdKG5nKIo8XHZV&si=Bd4pu2GHRMtRmAYJ">full band</a> for things like album releases or summer festivals. <span class="years">2011-2022</span></p>
+              
+              <p>Being the drummer means you have a lot of gear. So you try to get others to bring their gear to you so you don't have to schlep yours around. :) And sometimes you're in a band who has a studio and gear is always around. Adam reminded me of my quote: "Why didn't I take up the piccolo?". In high school I learned a few chords on his mahogany Martin. In Like Summer, I got my first acoustic. Steve says he gave it to me, and I say I bought it from him. Over the years I got into electric guitar, effects pedals, bass, keys, synths, modular synths/eurorack, drum machines, songwriting, recording, mics, engineering, and producing. Pretty sure 100% of those inroads are because of Steve. I have a full studio that's always ready to make music with literally the flip of one switch.</a> 
+              
+              <p>Here are some songs I wrote: <a href="https://jdhtwo.bandcamp.com/">jdhtwo.bandcamp.com</a></p>
+              
+              <p>Want do to literally anything together? Let me know!</p>
+              
+            <!-- Albums Section -->
+            <br>
+            <div class="spotify-section">
+                <h3>Selected Albums I Like / Some Desert Island Discs</h3>
+                <div class="spotify-section">
+                    <!-- Foo Figthers: There Is Nothing Left To Lose -->
+                    <iframe src="https://open.spotify.com/embed/album/28q2N44ocJECgf8sbHEDfY?si=FaGawn0jRpSOOsbwhjCyLg" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <!-- Plankeye: Commonwealth -->
+                    <iframe src="https://open.spotify.com/embed/album/4N5OmYXjbhVnbYGN5iIn82?si=KovUuf2xSYGXHVpcTUqDpw" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <!-- Plankeye: The One And Only -->
+                    <iframe src="https://open.spotify.com/embed/album/3n3T34Hzc6tgD9Q1gRRHGN?si=Xsb8M_KrTsO-uHWapt6Ucw" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <!-- Wilco: Yankee Hotel Foxtrot -->
+                    <iframe src="https://open.spotify.com/embed/album/0rPtXOMN42nsLDiShvGamv?si=gxdvXzD0Qu2wLhgncVCJjg" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <!-- Wilco: A Ghost Is Born -->
+                    <iframe src="https://open.spotify.com/embed/album/1RCxMEn5jFeUWbof3vy8oC?si=qK1YWfplTly_grGUhEBlCg" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <!-- Wilco: Sky Blue Sky -->
+                    <iframe src="https://open.spotify.com/embed/album/6dbcDWUXEFpNrmCJoqZsk4?si=Q11NW-htQA2z52Fi1ExJ6g" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                    <!-- Like Summer: From Arlington Heights, With Love -->
+                    <iframe src="https://open.spotify.com/embed/album/5UeBDyEFFopggLtgSyW9Co?si=1e7KKou7TGuMrLlGmzOnTw" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>       
+                    <!-- glaive: i care so much that i dont care at all -->
+                    <iframe src="https://open.spotify.com/embed/album/05vrswB4MQ52sF3ZyX1jDC?si=pI0vA2U4RT2nX8RjALXvvw" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>                        
+                    <!-- Dawes: North Hills -->
+                    <iframe src="https://open.spotify.com/embed/album//2YK8aur1sPNOXrh73CoyLm?si=ZPsaesfeRvWtnvV1taaUNQ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>                       
+                    <!-- Dawes: Stories Don't End -->
+                    <iframe src="https://open.spotify.com/embed/album/4q9W0n8VLVxAscfJh2R93C?si=LH_bfo6dSQGzfvkASsghzA" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>                       
+                    <!-- Dawes: All Your Faviorite Bands -->
+                    <iframe src="https://open.spotify.com/embed/album/4lv4CsM3M3t0KwmqCadtFK?si=NW7otSckRwGDrN9u7nOXAQ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>   
+
+
+
+                    
+
+                </div>
+            </div>
+            
+            <!-- Playlists Section -->
+            <div class="spotify-section">
+                <h3>Playlists</h3>
+                <div class="spotify-container">
+                    <!-- Playlist 1 -->
+                    <iframe src="https://open.spotify.com/embed/playlist/3SKswTw4qZOb1t5lgOWha6?si=f1b93051e5dc412c" 
+                            width="300" height="80" frameborder="0" 
+                            allowtransparency="true" allow="encrypted-media"></iframe>
+                </div>
+            </div>
+            
+            <!-- Tracks Section -->
+            <div class="spotify-section">
+                <h2>Tracks</h2>
+                <div class="spotify-container">
+                    <!-- Glaive -->
+                    <iframe src="https://open.spotify.com/embed/album/5NnsC01LT1Z79Sw0QQf46Q?si=B3oJXrZJTE6qZkEbHYznNQ" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+                            
+                            
+                            
+                            
+                    <iframe src="https://open.spotify.com/embed/track/4cOdK2wGLETKBW3PvgPWqT" 
+                            width="300" height="80" frameborder="0" 
+                            allowtransparency="true" allow="encrypted-media"></iframe>
+                            
+                    <iframe src="https://open.spotify.com/embed/album/5NFl7ys8iFtbZhoQAlPHBh?si=2LWgD8BgSwGzJ51pWu-mSg" 
+                            width="300" height="80" frameborder="0" 
+                            allowtransparency="true" allow="encrypted-media"></iframe>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
