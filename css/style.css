@@ -41,6 +41,11 @@ p {
     margin-bottom: 0px;
 }
 
+.thicker {
+  
+  color: red;
+}
+
 /* Lists */
 
 ul {
