@@ -81,6 +81,8 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 /* Round the homepage profile pic */
