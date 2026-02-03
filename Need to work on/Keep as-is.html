@@ -1,0 +1,109 @@
+// Claude's thoughts
+
+Add a date element - Posts need a visible publication date. Could be right under the h1 or in the breadcrumb area.
+Make the meta description dynamic - Right now it's hardcoded for the landslide content. Each post needs its own.
+Consider an article tag - Wrapping the post content in <article> is semantically correct and helps with RSS parsing later if you automate it.
+Breadcrumb adjustment - Maybe Dan Harding -> Blog -> Post Title or just Dan Harding -> Blog with the post title being the h1.
+Footer links - A spot for prev/next post links, or a "back to all posts" link. */
+
+<body>
+    <div class="container">
+        <p class='breadcrumb'><a href="../index.html">Dan Harding</a> → <a href="index.html">Blog</a></p>
+        
+        <article>
+            <h1>Post Title Here</h1>
+            <p class="postDate">February 3, 2025</p>
+            
+            <!-- post content -->
+            
+        </article>
+        
+        <hr>
+        <p><a href="index.html">← All posts</a></p>
+    </div>
+</body>
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="content-language" content="en-us">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="index, follow">
+        <meta name="description" content="POST_DESCRIPTION">
+        <title>POST_TITLE | Dan Harding</title>
+        <meta property="og:title" content="POST_TITLE">
+        <link rel="stylesheet" type="text/css" href="../css/style.css">
+    </head>
+
+// Claude's Blog index
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="content-language" content="en-us">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="index, follow">
+        <meta name="description" content="Blog posts by Dan Harding.">
+        <title>Blog | Dan Harding</title>
+        <meta property="og:title" content="Blog | Dan Harding">
+        <link rel="stylesheet" type="text/css" href="../css/style.css">
+    </head>
+    
+    <body>
+        <div class="container">
+            
+            <p class='breadcrumb'><a href="index.html">Dan Harding</a> → Blog</p>
+
+            <h1>Blog</h1>
+
+            <ul class="postList">
+                <li><span class="postDate">2025-02-03</span> – <a href="posts/example-post.html">Example Post Title</a></li>
+                <!-- Add new posts at the top -->
+            </ul>
+                 
+        </div>
+    </body>
+</html>
+
+// Claude's Blog Template
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="content-language" content="en-us">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="index, follow">
+        <meta name="description" content="POST_DESCRIPTION">
+        <title>POST_TITLE | Dan Harding</title>
+        <meta property="og:title" content="POST_TITLE">
+        <link rel="stylesheet" type="text/css" href="../css/style.css">
+    </head>
+    
+    <body>
+        <div class="container">
+            
+            <p class='breadcrumb'><a href="../index.html">Dan Harding</a> → <a href="index.html">Blog</a></p>
+
+            <article>
+                <h1>POST_TITLE</h1>
+                <p class="postDate">Month Day, Year</p>
+
+                <p>Your content here.</p>
+
+            </article>
+
+            <hr>
+
+            <p><a href="index.html">← All posts</a></p>
+                 
+        </div>
+    </body>
+</html>
